@@ -49,20 +49,20 @@ The dataset includes various parameters such as:
 
 ## Installation & Setup
 1. **Clone the Repository**
-   '''
-   git clone https://github.com/your-username/workout-fitness-tracker-ml.git
-   cd workout-fitness-tracker-ml
-   '''
+   ```
+   git clone https://github.com/your-username/Workout-and-fitness-tracker-Model.git
+   cd Workout-and-fitness-tracker-Model
+   ```
 
 2. **Install Dependencies**
-   '''
+   ```
    pip install -r requirements.txt
-   '''
+   ```
 
 3. **Run the Application**
-   '''
+   ```
    streamlit run app.py
-   '''
+   ```
 
 ## Future Improvements
 - **Integration with Wearable Devices** (e.g., Fitbit, Apple Watch)
